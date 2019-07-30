@@ -1,0 +1,1 @@
+in pubsubclient.h, change MQTT_MAX_PACKET_SIZE from 128 to at least 500. jsons take up space
